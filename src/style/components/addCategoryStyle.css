@@ -1,0 +1,15 @@
+form {
+    margin-bottom: 20px;
+}
+
+input {
+    color: pink;
+    font-size: 2rem;
+    width: 100%;
+    border-right: 0px;
+}
+
+.search-btn {
+    border: none;
+    background: none;
+}

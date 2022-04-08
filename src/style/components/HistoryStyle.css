@@ -1,0 +1,11 @@
+
+.ulContainer {
+    display: flex;
+    flex-direction: column;
+}
+
+li {
+    list-style: none;
+    cursor: pointer;
+    transition: .3s ease all;
+}

@@ -1,0 +1,11 @@
+.searchName {
+    margin-bottom: 10px;
+}
+
+.card-grid {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin: 25px;
+}
